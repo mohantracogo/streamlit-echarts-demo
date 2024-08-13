@@ -1,2 +1,2 @@
-streamlit>=0.69
+streamlit>=1.37.0
 streamlit-echarts>=0.4.0
